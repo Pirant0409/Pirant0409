@@ -1,4 +1,3 @@
-## Hi there 👋
 **Software Developer | Tech & Cinema Enthusiast | Web and App Developer**  
 ---
 
