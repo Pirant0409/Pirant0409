@@ -21,3 +21,4 @@ Here are some of the technologies I work with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-piras-6521ab189/)  
 
 
+<sub><sup>I made this before [**mdevolde**](https://github.com/mdevolde)</sup></sub>
