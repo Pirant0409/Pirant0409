@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Pirant0409/Pirant0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Tech Enthusiast | Web and App Developer
 
-Here are some ideas to get you started:
+Hi there! 👋 I'm Antoine, a passionate software developer with a keen interest in web and application development. I hold a Bachelor's and Master's degree in Computer Science from the University of Namur, where I honed my skills in programming, problem-solving, and collaborating on innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my time at university, I was an active member of the e-kot project, contributing to tech-based solutions for a more sustainable and connected community.
+
+🛠️ Tech Stack
+
+Here are some of the technologies I work with:
+
+📊 GitHub Stats
+
+
+
+🔗 Connect with Me
+
+
