@@ -8,7 +8,7 @@ During my time at university, I was an active member of the [**e-kot project**](
 
 📌 Notable Projects
 ---
-🗳️ Student Voting Platform – UNamur
+🗳️ [**Student Voting Platform**](https://election-etudiante.unamur.be/) – UNamur
 Private repository – Full Stack Web App
 * Designed and developed a secure digital voting platform enabling students to elect representatives to national councils.
 * Angular frontends for both student users and administrators
