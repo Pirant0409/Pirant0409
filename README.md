@@ -6,6 +6,17 @@ I'm Antoine, a passionate software developer with a keen interest in web and app
 
 During my time at university, I was an active member of the [**e-kot project**](https://github.com/e-kot-unamur), providing on-demand tech-based solutions for student's community.  
 
+📌 Notable Projects
+---
+🗳️ Student Voting Platform – UNamur
+Private repository – Full Stack Web App
+* Designed and developed a secure digital voting platform enabling students to elect representatives to national councils.
+* Angular frontends for both student users and administrators
+* Django REST API backend connected to a PostgreSQL database
+* Integrated with UNamur’s Keycloak for SSO and student authentication
+* Deployed & dockeriéed on a university-provided Debian server
+* Focused on data privacy, vote integrity, and authentication security through [**Election guard**](https://github.com/Election-Tech-Initiative/electionguard?tab=readme-ov-file) and [**Keycloak**](https://github.com/keycloak/keycloak)
+
 🛠️ Tech Stack 
 ---
 Here are some of the technologies I work with:  
