@@ -8,7 +8,7 @@ During my time at university, I was an active member of the [**e-kot project**](
 
 📌 Notable Projects
 ---
-🗳️ [**Student Voting Platform**](https://election-etudiante.unamur.be/) – UNamur
+🗳️ [**Student Voting Platform**](https://election-etudiante.unamur.be/) – UNamur <br>
 Private repository – Full Stack Web App
 * Designed and developed a secure digital voting platform enabling students to elect representatives to national councils.
 * Angular frontends for both student users and administrators
@@ -17,14 +17,15 @@ Private repository – Full Stack Web App
 * Deployed & dockerized on a university-provided Debian server
 * Focused on data privacy, vote integrity, and authentication security through [**Election guard**](https://github.com/Election-Tech-Initiative/electionguard?tab=readme-ov-file) and [**Keycloak**](https://github.com/keycloak/keycloak)
 
-🗣️ [**Unlock-lingua**](https://github.com/Pirant0409/unlock-lingua) – CSLabs
-🏆CSLabs Innovation Prize Award
+🗣️ [**Unlock-lingua**](https://github.com/Pirant0409/unlock-lingua) – CSLabs <br>
+CSLabs Innovation Prize Award 🏆
 * Developped as part of a hackathon focused on education
 * Real-time speech-to-text tool designed for newcomers
 
-🎶 [**Melodissey**](https://github.com/Pirant0409/Melodissey-front) – Personal
- [**Front-end**](https://github.com/Pirant0409/Melodissey-front) – [**Back-end**](https://github.com/Pirant0409/MelodisseyBack) – Full Stack Web App
-* A daily blind test game inspired by [Themely](https://themely.se/days)
+🎶 **Melodissey** – Personal <br>
+[**Front-end**](https://github.com/Pirant0409/Melodissey-front) – [**Back-end**](https://github.com/Pirant0409/MelodisseyBack) – Full Stack Web App
+* A daily blind test game inspired by [Themely](https://themely.se/days)<br>
+
 🛠️ Tech Stack 
 ---
 Here are some of the technologies I work with:  
