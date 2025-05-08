@@ -16,14 +16,14 @@ Private repository – Full Stack Web App
 * Integrated with UNamur’s Keycloak for SSO and student authentication
 * Deployed & dockerized on a university-provided Debian server
 * Focused on data privacy, vote integrity, and authentication security through [**Election guard**](https://github.com/Election-Tech-Initiative/electionguard?tab=readme-ov-file) and [**Keycloak**](https://github.com/keycloak/keycloak)
-<br>
-🗣️[**Unlock-lingua**](https://github.com/Pirant0409/unlock-lingua) - CSLabs
+
+🗣️ [**Unlock-lingua**](https://github.com/Pirant0409/unlock-lingua) – CSLabs
 🏆CSLabs Innovation Prize Award
 * Developped as part of a hackathon focused on education
 * Real-time speech-to-text tool designed for newcomers
-<br>
-🎶[**Melodissey**](https://github.com/Pirant0409/Melodissey-front) - Personal
- [**Front-end**](https://github.com/Pirant0409/Melodissey-front) - [**Back-end**](https://github.com/Pirant0409/MelodisseyBack) - Full Stack Web App
+
+🎶 [**Melodissey**](https://github.com/Pirant0409/Melodissey-front) – Personal
+ [**Front-end**](https://github.com/Pirant0409/Melodissey-front) – [**Back-end**](https://github.com/Pirant0409/MelodisseyBack) – Full Stack Web App
 * A daily blind test game inspired by [Themely](https://themely.se/days)
 🛠️ Tech Stack 
 ---
