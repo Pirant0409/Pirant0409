@@ -1,4 +1,4 @@
-**Software Developer | Tech & Cinema Enthusiast | Web and App Developer**  
+**Software Developer | Tech & Cinema Enthusiast | Web and Software Developer**  
 ---
 Hi there! 👋
 
